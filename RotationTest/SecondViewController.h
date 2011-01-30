@@ -11,4 +11,7 @@
 
 @interface SecondViewController : UIViewController {}
 
+- (IBAction)presentNewModalVCSystem:(id)sender;
+- (IBAction)dismiss:(id)sender;
+
 @end

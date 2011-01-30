@@ -16,6 +16,7 @@
 		24173C4A12F5BE88002FFB8C /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24173C4812F5BE88002FFB8C /* MainWindow.xib */; };
 		24173C5212F5BF22002FFB8C /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24173C5112F5BF22002FFB8C /* FirstViewController.m */; };
 		24173C5512F5BF35002FFB8C /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24173C5412F5BF35002FFB8C /* SecondViewController.m */; };
+		24173C5712F5C225002FFB8C /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24173C5612F5C225002FFB8C /* SecondViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		24173C5112F5BF22002FFB8C /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		24173C5312F5BF35002FFB8C /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		24173C5412F5BF35002FFB8C /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		24173C5612F5C225002FFB8C /* SecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				24173C5112F5BF22002FFB8C /* FirstViewController.m */,
 				24173C5312F5BF35002FFB8C /* SecondViewController.h */,
 				24173C5412F5BF35002FFB8C /* SecondViewController.m */,
+				24173C5612F5C225002FFB8C /* SecondViewController.xib */,
 			);
 			path = RotationTest;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 			files = (
 				24173C4112F5BE88002FFB8C /* InfoPlist.strings in Resources */,
 				24173C4A12F5BE88002FFB8C /* MainWindow.xib in Resources */,
+				24173C5712F5C225002FFB8C /* SecondViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
