@@ -14,6 +14,8 @@
 		24173C4412F5BE88002FFB8C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 24173C4312F5BE88002FFB8C /* main.m */; };
 		24173C4712F5BE88002FFB8C /* RotationTestAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 24173C4612F5BE88002FFB8C /* RotationTestAppDelegate.m */; };
 		24173C4A12F5BE88002FFB8C /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24173C4812F5BE88002FFB8C /* MainWindow.xib */; };
+		24173C5212F5BF22002FFB8C /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24173C5112F5BF22002FFB8C /* FirstViewController.m */; };
+		24173C5512F5BF35002FFB8C /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24173C5412F5BF35002FFB8C /* SecondViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,10 @@
 		24173C4512F5BE88002FFB8C /* RotationTestAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RotationTestAppDelegate.h; sourceTree = "<group>"; };
 		24173C4612F5BE88002FFB8C /* RotationTestAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RotationTestAppDelegate.m; sourceTree = "<group>"; };
 		24173C4912F5BE88002FFB8C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		24173C5012F5BF22002FFB8C /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		24173C5112F5BF22002FFB8C /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		24173C5312F5BF35002FFB8C /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		24173C5412F5BF35002FFB8C /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +84,10 @@
 				24173C4612F5BE88002FFB8C /* RotationTestAppDelegate.m */,
 				24173C4812F5BE88002FFB8C /* MainWindow.xib */,
 				24173C3D12F5BE88002FFB8C /* Supporting Files */,
+				24173C5012F5BF22002FFB8C /* FirstViewController.h */,
+				24173C5112F5BF22002FFB8C /* FirstViewController.m */,
+				24173C5312F5BF35002FFB8C /* SecondViewController.h */,
+				24173C5412F5BF35002FFB8C /* SecondViewController.m */,
 			);
 			path = RotationTest;
 			sourceTree = "<group>";
@@ -157,6 +167,8 @@
 			files = (
 				24173C4412F5BE88002FFB8C /* main.m in Sources */,
 				24173C4712F5BE88002FFB8C /* RotationTestAppDelegate.m in Sources */,
+				24173C5212F5BF22002FFB8C /* FirstViewController.m in Sources */,
+				24173C5512F5BF35002FFB8C /* SecondViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
